@@ -7,9 +7,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Panel></Panel> 
+      <Panel></Panel>
       <div className="table-wrapper">
-      <Table/>
+        <Table />
       </div>
     </div>
   );
